@@ -1,2 +1,2 @@
-# Eight_Queen-
+# Eight Queen-
 solve Eight Queen problem
